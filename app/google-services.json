@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232502924526",
+    "firebase_url": "https://jikpushservice.firebaseio.com",
+    "project_id": "jikpushservice",
+    "storage_bucket": "jikpushservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232502924526:android:ff849d177c71aba3",
+        "android_client_info": {
+          "package_name": "jik.android.jikpushservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232502924526-t7i5mpba8e7vrj64cav0kt7jsrh7kdvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-TQD_0u_Jd-6beLNvK472ROtXz1_7c9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
